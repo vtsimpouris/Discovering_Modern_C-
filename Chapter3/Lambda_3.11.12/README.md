@@ -1,0 +1,1 @@
+Compute the first and second derivatives for 2 cos x + x ^ 2 with lambda expressions.
