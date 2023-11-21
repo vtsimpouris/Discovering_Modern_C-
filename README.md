@@ -1,7 +1,7 @@
 # Discovering_Modern_Cpp
 Selected solution to exercises of the book "Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmer" by Peter Gottschlings
 
-3.11.3: 
+### 3.11.3: 
 Write a stack implementation for a generic value type. The maximal size of the stack is
 defined in the class (hard-wired). Provide the following functions:
 • Constructor;
@@ -18,10 +18,10 @@ Stack over- or underflow must throw an exception.
 
 Note: The solution is implemented using linked lists.
 
-3.11.12:
+### 3.11.12:
 Compute the first and second derivatives for 2 cos x + x ^ 2 with lambda expressions.
 
-4.8.3
+### 4.8.3
 Requirments:
 
  1) SDL legacy version 1
